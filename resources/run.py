@@ -1,5 +1,5 @@
-from app import app
-from db import db
+from test-repo.app import app
+from test-repo.db import db
 
 db.init_app(app)
 
