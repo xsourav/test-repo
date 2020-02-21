@@ -1,5 +1,5 @@
 import sqlite3
-from section6.db import db
+from test-repo.db import db
 
 
 class StoreModel(db.Model):
